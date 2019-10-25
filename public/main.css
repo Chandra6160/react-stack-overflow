@@ -1,0 +1,63 @@
+body {
+  font-family: "PT Serif", serif;
+}
+
+hr.style1 {
+  border-top: 1px solid #8c8b8b;
+}
+.questions {
+  
+  border-radius: 10px;
+  position: absolute;
+}
+/* .loader {
+  position: absolute;
+  top: calc(50% - 4em);
+  left: calc(50% - 4em);
+  width: 6em;
+  height: 6em;
+  border: 1.1em solid rgba(0, 0, 0, 0.2);
+  border-left: 1.1em solid #000000;
+  border-radius: 50%;
+  animation: load8 1.1s infinite linear;
+  transition: opacity 0.3s;
+}
+
+.loader--hide {
+  opacity: 0;
+}
+
+@keyframes load8 {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+} */
+.explore {
+  color: rgb(255, 255, 255);
+  min-height: 55vh;
+  padding: 30px 20px;
+  background: rgb(13, 16, 30);
+}
+h3.title {
+  font-size: 45px;
+  font-family: Lato;
+  font-weight: 400;
+  text-align: center;
+  
+  color: rgb(255, 255, 255);
+}
+/* .explore-button {
+  margin-top: 100px;
+  
+  align-items :center;
+  background-color: rgb(94, 195, 235);
+  color: rgb(13, 16, 30);
+  font-size: 12pt;
+  font-weight: 800;
+  cursor: pointer;
+  
+  
+} */
