@@ -18,7 +18,7 @@ Minimal Yet Responsive React Stack Overflow Built With React, React routing and 
 ```
 git clone https://github.com/Chandra6160/react-stack-overflow.git
 
-cd react-unit-converter
+cd react-stack-overflow
 
 npm install
 
